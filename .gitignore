@@ -5,3 +5,4 @@ runs/
 .aizynthfinder_numpy_fix/
 *.sif
 *.ckpt
+.DS_Store
